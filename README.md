@@ -1,0 +1,2 @@
+# strikto
+some text here
